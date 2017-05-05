@@ -1,5 +1,6 @@
 import random
 
+#changed this to other thing
 class deck(object):
     def __init__(self):
         self.fulldeck = []
